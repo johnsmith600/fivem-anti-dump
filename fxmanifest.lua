@@ -353,6 +353,8 @@ antidump_config = {
 version_check_url = 'https://api.github.com/repos/johnsmith600/fivem-anti-dump/releases/latest'
 version_check_interval = 3600000 -- 1 hour
 
+version_check_print = print("[Anti-Dump] Checking for latest version...", "info") and print(version_check_url, "info")
+
 -- Resource compatibility
 compatibility_mode = false
 minimum_game_version = 'b2545'
