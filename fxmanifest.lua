@@ -227,7 +227,8 @@ server_scripts {
     'server/config.lua',
 
     -- 2. Main Server Script (contains all functionality)
-    'server/antidump.lua'
+    'server/antidump.lua',
+    'version.lua'
 }
 
 -- Additional game files
