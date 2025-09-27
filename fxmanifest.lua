@@ -49,6 +49,7 @@ files {
     -- Include any additional files here
     -- 'config/*.lua',
     -- 'data/*.json',
+    'version.lua'
 }
 
 -- UI files (if needed)
