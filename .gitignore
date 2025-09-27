@@ -1,0 +1,30 @@
+# FiveM Server Files
+server-data/
+cache/
+txAdmin/
+logs/
+
+# Development Files
+.vscode/
+*.log
+debug.log
+
+# Temporary Files
+*.tmp
+*.temp
+.DS_Store
+
+# Database Files (if using SQLite)
+*.db
+*.sqlite
+
+# Node Modules (if using any)
+node_modules/
+
+# Environment Files
+.env
+.env.local
+
+# Backup Files
+*.backup
+backup/
