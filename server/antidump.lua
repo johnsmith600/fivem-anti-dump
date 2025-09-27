@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 -- FiveM Anti-Dump Main Server Script
 -- Complete integration system for anti-dump detection - FiveM Single-File Architecture
 -- Version: 2.0.0
@@ -1686,7 +1686,6 @@ end
 print(string.format("[Anti-Dump] Anti-Dump Detection System v%s loaded successfully!", systemVersion))
 print("[Anti-Dump] Use console command 'antidump help' for available commands.")
 print("[Anti-Dump] System will initialize automatically in a few seconds...")
-=======
 -- FiveM Anti-Dump Main Server Script
 -- Complete integration system for anti-dump detection - FiveM Single-File Architecture
 -- Version: 2.0.0
@@ -3374,4 +3373,4 @@ end
 print(string.format("[Anti-Dump] Anti-Dump Detection System v%s loaded successfully!", systemVersion))
 print("[Anti-Dump] Use console command 'antidump help' for available commands.")
 print("[Anti-Dump] System will initialize automatically in a few seconds...")
->>>>>>> 30c513c97c5cbc88fe8ab5df1beab9ce91fa25f3
+

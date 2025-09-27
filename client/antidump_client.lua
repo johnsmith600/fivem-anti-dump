@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 -- FiveM Anti-Dump Client Script
 -- Client-side integration for anti-dump detection system
 -- Version: 2.0.0
@@ -400,7 +400,7 @@ Citizen.CreateThread(function()
 end)
 
 print(string.format("[Anti-Dump:Client] Client script v%s loaded", clientVersion))
-=======
+
 -- FiveM Anti-Dump Client Script
 -- Client-side integration for anti-dump detection system
 -- Version: 2.0.0
@@ -802,5 +802,5 @@ Citizen.CreateThread(function()
 end)
 
 print(string.format("[Anti-Dump:Client] Client script v%s loaded", clientVersion))
->>>>>>> 30c513c97c5cbc88fe8ab5df1beab9ce91fa25f3
+
 print("[Anti-Dump:Client] Waiting for server configuration...")

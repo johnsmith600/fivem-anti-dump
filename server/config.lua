@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 -- FiveM Anti-Dump Configuration
 -- Enhanced configuration management system for anti-dump detection
 -- Version: 2.0.0
@@ -740,7 +740,7 @@ Citizen.CreateThread(function()
     end
 end)
 
-=======
+
 -- FiveM Anti-Dump Configuration
 -- Enhanced configuration management system for anti-dump detection
 -- Version: 2.0.0
@@ -1482,5 +1482,5 @@ Citizen.CreateThread(function()
     end
 end)
 
->>>>>>> 30c513c97c5cbc88fe8ab5df1beab9ce91fa25f3
+
 return Config

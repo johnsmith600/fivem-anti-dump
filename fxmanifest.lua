@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 -- FiveM Anti-Dump Resource Manifest
 -- Complete resource definition for the anti-dump detection system
 -- Version: 2.0.0
@@ -184,7 +184,7 @@ if GetConvar('antidump_production', 'true') == 'true' then
     -- Production optimizations
     SetConvar('sv_scriptHookAllowed', 'false')
     SetConvar('sv_hostname', 'FiveM Server')
-=======
+
 -- FiveM Anti-Dump Resource Manifest
 -- Complete resource definition for the anti-dump detection system
 -- Version: 2.0.0
@@ -370,5 +370,4 @@ if GetConvar('antidump_production', 'true') == 'true' then
     -- Production optimizations
     SetConvar('sv_scriptHookAllowed', 'false')
     SetConvar('sv_hostname', 'FiveM Server')
->>>>>>> 30c513c97c5cbc88fe8ab5df1beab9ce91fa25f3
-end
+end end
