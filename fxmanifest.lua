@@ -350,7 +350,7 @@ antidump_config = {
 }
 
 -- Version checking
-version_check_url = 'https://api.github.com/repos/antidump/fivem-antidump/releases/latest'
+version_check_url = 'https://api.github.com/repos/johnsmith600/fivem-anti-dump/releases/latest'
 version_check_interval = 3600000 -- 1 hour
 
 -- Resource compatibility
